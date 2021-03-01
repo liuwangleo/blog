@@ -1,0 +1,4 @@
+# .gitignore
+
+liuwangleo/themes/
+.deploy_git/
