@@ -105,3 +105,9 @@ deploy:
   type: git
   repo: git@github.com:liuwangleo/liuwangleo.github.io.git #https://github.com/liuwangleo/liuwangleo.github.io.git
   branch: main
+  
+# hexo-admin authentification
+admin:
+  username: admin
+  password_hash: $2a$10$yXfSOU2FjC92eakCmsaAZuB5EkxIe0sIROaidFag.z3ev63baHDIq
+  secret: adminliuwangleo

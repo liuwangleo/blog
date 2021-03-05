@@ -11,8 +11,7 @@ toc: true
 keywords: 索引
 cover: https://recruit-django.oss-cn-beijing.aliyuncs.com/media/images/mysql-index.jpg
 date: 2021-03-01 09:04:04
-# updated :
-top: 1
+updated :
 ---
 
 # 引言
