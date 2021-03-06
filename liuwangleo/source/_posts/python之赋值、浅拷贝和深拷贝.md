@@ -2,7 +2,7 @@
 title: python之赋值、浅拷贝和深拷贝
 date: 2021-03-04 09:15:26
 tags:
-    - python
+    - python进阶
     - 深浅拷贝
 categories:
     - python
