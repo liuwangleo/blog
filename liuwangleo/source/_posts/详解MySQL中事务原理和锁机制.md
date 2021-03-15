@@ -6,6 +6,7 @@ tags:
     - 锁
 categories:
     - MySQL
+cover: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fcloud.bqxiu.com%2Fwp-content%2Fuploads%2F2019%2F03%2F2019031522111693.jpg&refer=http%3A%2F%2Fcloud.bqxiu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1618377731&t=0d26b6d9c4bf37c9a73224ae3e0d055b
 ---
 
 # 事务

@@ -7,6 +7,7 @@ tags:
     - 闭包
 categories:
     - python
+cover: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2614262165,254938820&fm=26&gp=0.jpg
 ---
 # 作用域介绍
 作用域，也叫名称空间。

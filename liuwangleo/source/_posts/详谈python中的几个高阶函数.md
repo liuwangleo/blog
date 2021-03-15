@@ -6,7 +6,7 @@ tags:
     - 高阶函数
 categories:
     - python
-cover: 
+cover: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2614262165,254938820&fm=26&gp=0.jpg
 toc: true
 ---
 

@@ -6,6 +6,7 @@ tags:
     - 深浅拷贝
 categories:
     - python
+cover: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2614262165,254938820&fm=26&gp=0.jpg
 ---
 >**注意：** 结合实际的案例 理解概念
 

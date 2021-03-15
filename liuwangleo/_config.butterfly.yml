@@ -57,9 +57,15 @@ algolia_search:
     hits_empty: "We didn't find any results for the search: ${query}" # if there are no result
     hits_stats: '${hits} results found in ${time} ms'
 
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
 # Local search
 local_search:
-  enable: false
+  enable: true
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}" # if there are no result
